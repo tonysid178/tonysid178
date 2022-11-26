@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tonysid178
+- 👀 I’m interested in coding and gaming :)
+- 🌱 I’m currently learning Java & Python as well as working on SQL Servers
+- 📫 Email: antonissidiras@gmail.com

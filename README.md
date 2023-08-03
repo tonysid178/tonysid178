@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tonysid178
 - 👀 I’m interested in coding and gaming :)
-- 🌱 I’m currently learning PHP as well as working on SQL Servers
+- 🌱 I’m currently learning PHP/Laravel, MySQL and OpenCart/Journal!
 - 📫 Email: antonissidiras@gmail.com
